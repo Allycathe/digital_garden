@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-permanent/ss/fourier/series/serie-de-fourier/"}
+{"dg-publish":true,"permalink":"/04-permanent/ss/fourier/series/serie-de-fourier/","tags":["gardenEntry"]}
 ---
 
 Fourier dedujo que toda señal periódica $g(t)$ podría ser representada como la suma de diferentes sinusoides con distintas amplitudes y frecuencias múltiplo de la frecuencia fundamental de la señal $g(t)$.
